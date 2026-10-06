@@ -25,7 +25,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'block_greeting';
-$plugin->version   = 2026093000;
-$plugin->requires  = 2024100700;
+$plugin->version   = 2026093001;
+$plugin->requires  = 2026042000;
 $plugin->maturity  = MATURITY_ALPHA;
-$plugin->release   = '0.1.0';
+$plugin->release   = '1.0.0';
